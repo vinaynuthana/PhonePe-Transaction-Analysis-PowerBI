@@ -225,9 +225,9 @@ PhonePe-Transaction-Analysis-PowerBI
 
 **Name:** Vinay Nuthanakalva
 
-**LinkedIn:** *(Add your LinkedIn URL here)*
+**LinkedIn:** https://www.linkedin.com/in/nuthanakalva-vinay/
 
-**GitHub:** *(Add your GitHub profile URL here)*
+**GitHub:** https://github.com/vinaynuthana?tab=repositories
 
 ------------------------------------------------------------------------
 
