@@ -1,6 +1,6 @@
 # 📊 PhonePe Transaction Analysis Dashboard \| Power BI
 
-![Dashboard Preview](Images/Dashboard_Page1.png)
+![Dashboard Preview](Dashboard_page1.png)
 
 ## 📌 Project Overview
 
