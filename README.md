@@ -147,11 +147,11 @@ date table for time intelligence calculations.
 
 ### Dashboard Page 1
 
-![Dashboard Page 1](Images/Dashboard_Page1.png)
+![Dashboard Page 1](Dashboard_page1.png)
 
 ### Dashboard Page 2
 
-![Dashboard Page 2](Images/Dashboard_Page2.png)
+![Dashboard Page 2](Dashboard_page2.png)
 
 ------------------------------------------------------------------------
 
